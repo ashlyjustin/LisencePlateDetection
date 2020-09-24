@@ -1,0 +1,26 @@
+<annotation>
+	<folder>usimages</folder>
+	<filename>car-09.png</filename>
+	<path>/home/enigma/Downloads/benchmarks-master/endtoend/usimages/car-09.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>224</ymin>
+			<xmax>548</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eu</folder>
+	<filename>test_041.jpg</filename>
+	<path>/home/enigma/Downloads/benchmarks-master/endtoend/eu/test_041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>364</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>230</ymin>
+			<xmax>256</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
